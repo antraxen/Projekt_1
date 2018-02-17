@@ -40,6 +40,13 @@
   max-width: -webkit-fill-available;
 }
 
+.theconcepttekst {
+  text-align: right;
+}
+
+.theconceptimg {
+  max-width: -webkit-fill-available;
+}
 /* INSERT CSS FOR MEDIA HERE */
 
 
