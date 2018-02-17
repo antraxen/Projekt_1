@@ -17,7 +17,9 @@
 
 
 /* ABOUT */
-
+#about h2 {
+  text-align: center;
+}
 
 
 /* INSERT CSS FOR MEDIA HERE */
