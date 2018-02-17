@@ -64,3 +64,17 @@
 
 
 /* INSERT CSS FOR FOOTER HERE */
+.footer {
+  color: black;
+  height: 50%;
+  background-color: black;
+
+}
+
+.footer-text {
+  color: white;
+  text-align: right;
+  margin-right:8.8%;
+  font-size: 15px;
+  padding: 3%;
+}
