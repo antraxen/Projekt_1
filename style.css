@@ -19,6 +19,7 @@
 /* ABOUT */
 #about h2 {
   text-align: center;
+  padding-bottom: 50px;
 }
 
 #about ul {
@@ -32,12 +33,22 @@
   vertical-align: top;
 }
 
+.theideatekst h3 {
+  font-size: 75px;
+  padding-bottom: 25px;
+}
+
 .theideatekst {
   text-align: left;
 }
 
 .theideaimg {
   max-width: -webkit-fill-available;
+}
+
+.theconcepttekst h3 {
+  font-size: 75px;
+  padding-bottom: 25px;
 }
 
 .theconcepttekst {
