@@ -37,8 +37,7 @@
 }
 
 .theideaimg {
-  text-align: center;
-
+  max-width: -webkit-fill-available;
 }
 
 /* INSERT CSS FOR MEDIA HERE */
