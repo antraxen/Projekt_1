@@ -21,6 +21,17 @@
   text-align: center;
 }
 
+#about ul {
+  list-style: none;
+  height: auto;
+}
+
+#about li{
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+}
+
 .theideatekst {
   text-align: left;
 }
