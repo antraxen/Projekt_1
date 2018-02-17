@@ -78,3 +78,11 @@
   font-size: 15px;
   padding: 3%;
 }
+#footer ul.actions {
+    position: absolute;
+    left: 1em;
+    top: 0.25em;
+    height: 5em;
+    line-height: 5em;
+    margin: 0;
+}
