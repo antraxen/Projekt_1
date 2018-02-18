@@ -12,6 +12,35 @@
 
 /* INSERT CSS FOR HEADER HERE */
 
+#header {
+    position: fixed;
+    z-index: 10000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color:black;
+    height: 7em;
+    line-height: 3em;
+    box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
+}
+
+#header nav {
+    position: absolute;
+    right: 5em;
+    top: 2em;
+    height: 3em;
+    line-height: 3em;
+}
+#header nav ul {
+    margin: 0;
+}
+
+#header nav ul li {
+    display: inline-block;
+    margin-left: 3em;
+    font-size: 1.2em;
+}
+
 
 /* INSERT CSS FOR BANNER HERE */
 
@@ -77,12 +106,4 @@
   margin-right:8.8%;
   font-size: 15px;
   padding: 3%;
-}
-#footer ul.actions {
-    position: absolute;
-    left: 1em;
-    top: 0.25em;
-    height: 5em;
-    line-height: 5em;
-    margin: 0;
 }
