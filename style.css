@@ -26,7 +26,7 @@
 
 #header nav {
     position: absolute;
-    right: 5em;
+    right:10em;
     top: 2em;
     height: 3em;
     line-height: 3em;
@@ -38,9 +38,27 @@
 #header nav ul li {
     display: inline-block;
     margin-left: 3em;
-    font-size: 1.2em;
+    font-size: 1em;
+    color: white;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    text-decoration: none;
+    
 }
 
+a:visited {
+    color:white;
+    text-decoration: none;
+}
+a:link {
+    color:white;
+    text-decoration: none;
+}
+
+a:hover {
+    color:white;
+    text-decoration: none;
+}
 
 /* INSERT CSS FOR BANNER HERE */
 
