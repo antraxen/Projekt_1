@@ -147,6 +147,15 @@ a:hover {
 .whoweare {
   max-width: -webkit-fill-available;
 }
+
+/* INSERT CSS FOR KNOWN FROM HERE*/
+#known h2 {
+  text-align: center;
+  font-size: 5em;
+  padding-bottom: 0.2em;
+  margin-top: 0.5em;
+}
+
 /* INSERT CSS FOR MEDIA HERE */
 
 
