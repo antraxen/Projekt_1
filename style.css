@@ -156,6 +156,13 @@ a:hover {
   margin-top: 0.5em;
 }
 
+.knownfrom {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 97%;
+}
+
 /* INSERT CSS FOR MEDIA HERE */
 
 
