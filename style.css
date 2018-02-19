@@ -12,24 +12,27 @@
 
 /* INSERT CSS FOR HEADER HERE */
 
+
 #header {
     position: fixed;
     z-index: 10000;
     left: 0;
     top: 0;
     width: 100%;
-    background-color:black;
-    height: 7em;
-    line-height: 3em;
+    background-color:white;
+    height: 4em;
+    line-height: 2em;
     box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
 }
+
 
 #header nav {
     position: absolute;
     right:10em;
     top: 2em;
-    height: 3em;
-    line-height: 3em;
+    bottom:2em;
+    height: 2em;
+    line-height: 0.5em;
 }
 #header nav ul {
     margin: 0;
@@ -43,22 +46,25 @@
     text-transform: uppercase;
     font-family: sans-serif;
     text-decoration: none;
-
+    
 }
 
 a:visited {
-    color:white;
+    color:black;
     text-decoration: none;
 }
 a:link {
-    color:white;
+    color:black;
     text-decoration: none;
 }
 
 a:hover {
-    color:white;
+    color:black;
     text-decoration: none;
 }
+
+
+
 
 /* INSERT CSS FOR BANNER HERE */
 
@@ -66,8 +72,8 @@ a:hover {
 /* ABOUT */
 #about h2 {
   text-align: center;
-  font-size: 4.5em;
-  padding-bottom: 3.5%;
+  font-size: 75px;
+  padding-bottom: 50px;
 }
 
 #about ul {
@@ -82,8 +88,8 @@ a:hover {
 }
 
 .theideatekst h3 {
-  font-size: 3em;
-  padding-bottom: 0.2em;
+  font-size: 50px;
+  padding-bottom: 25px;
 }
 
 .theideatekst {
@@ -95,8 +101,8 @@ a:hover {
 }
 
 .theconcepttekst h3 {
-  font-size: 3em;
-  padding-bottom: 0.2em;
+  font-size: 50px;
+  padding-bottom: 25px;
 }
 
 .theconcepttekst {
