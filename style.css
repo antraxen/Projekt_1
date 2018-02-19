@@ -80,9 +80,9 @@ a:hover {
 }
 
 .banner-text h2 {
-  font-size: 4em;
+    font-size:4vw;
   text-align: right;
-  padding-top: 5em;
+  padding-top: 6em;
   color: white;
   padding-right: 0.4em;
 }
@@ -114,10 +114,12 @@ a:hover {
 
 .theideatekst {
   text-align: left;
+    padding-top: 4em;
 }
 
 .theideaimg {
   max-width: -webkit-fill-available;
+    padding-top: 5em;
 }
 
 .theconcepttekst h3 {
