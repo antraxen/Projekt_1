@@ -187,21 +187,7 @@ a:hover {
 }
 
 /*TESTING HOVER*/
-.youtube {
-  transform-style: preserve-3d;
-}
 
-.youtube:after {
-	top: -100%;
-	left: 0px;
-	width: 100%;
-	position: absolute;
-	background: #3a9999;
-	border-radius: 5px;
-	content: 'Flipped';
-	transform-origin: left bottom;
-	transform: rotateX(90deg);
-}
 
 
 /* INSERT CSS FOR FOOTER HERE */
