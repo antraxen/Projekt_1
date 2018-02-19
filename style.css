@@ -131,6 +131,19 @@ a:hover {
 .theconceptimg {
   max-width: -webkit-fill-available;
 }
+
+.whowearetekst h3 {
+  font-size: 3em;
+  padding-bottom: 0.3em;
+}
+
+.whowearetekst {
+  text-align: right;
+}
+
+.whoweare {
+  max-width: -webkit-fill-available;
+}
 /* INSERT CSS FOR MEDIA HERE */
 
 
