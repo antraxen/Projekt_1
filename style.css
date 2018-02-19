@@ -72,11 +72,11 @@ a:hover {
 
 /* INSERT CSS FOR BANNER HERE */
 #banner {
-  background-image: url(banner.jpg);
+  background-image: url(img/banner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: auto;
+  height: 50em;
 }
 
 /* ABOUT */
