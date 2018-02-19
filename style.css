@@ -156,6 +156,13 @@ a:hover {
   margin-top: 0.5em;
 }
 
+#known {
+  background-image: url(img/img4.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 50em;
+}
 /* INSERT CSS FOR MEDIA HERE */
 
 
