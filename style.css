@@ -46,7 +46,7 @@
     text-transform: uppercase;
     font-family: sans-serif;
     text-decoration: none;
-    
+
 }
 
 a:visited {
@@ -72,8 +72,9 @@ a:hover {
 /* ABOUT */
 #about h2 {
   text-align: center;
-  font-size: 75px;
-  padding-bottom: 50px;
+  font-size: 5em;
+  padding-bottom: 0.2em;
+  margin-top: 1em;
 }
 
 #about ul {
@@ -88,8 +89,8 @@ a:hover {
 }
 
 .theideatekst h3 {
-  font-size: 50px;
-  padding-bottom: 25px;
+  font-size: 3em;
+  padding-bottom: 0.3em;
 }
 
 .theideatekst {
@@ -101,8 +102,8 @@ a:hover {
 }
 
 .theconcepttekst h3 {
-  font-size: 50px;
-  padding-bottom: 25px;
+  font-size: 3em;
+  padding-bottom: 0.3em;
 }
 
 .theconcepttekst {
