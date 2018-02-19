@@ -79,6 +79,10 @@ a:hover {
   height: 50em;
 }
 
+.banner-text h2 {
+  font-size: 5em;
+}
+
 /* ABOUT */
 #about h2 {
   text-align: center;
