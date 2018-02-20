@@ -323,23 +323,15 @@ a:hover {
 
 
 /* INSERT CSS FOR FOOTER HERE */
-#footer ul {
-  list-style: none;
-  height: auto;
-  background-color: #131313;
-  padding-bottom: 0;
-  margin-bottom: 0;
-  padding-top: 0.3em;
-  
+.footer {
+  color: black;
+  height: 50%;
+  background-color: black;
 }
-
-#footer li{
-  display: inline-block;
-  width: 3em;
-  vertical-align: top;
-}
-
-#footer p {
-	color: white;
-	text-align: right;
-}
+  .footer-text {
+    color: white;
+    text-align: right;
+    margin-right:8.8%;
+    font-size: 15px;
+    padding: 3%;
+  }
