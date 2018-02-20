@@ -213,10 +213,9 @@ a:hover {
   margin-bottom: 25em;
 }
 
-<<<<<<< HEAD
 #media h3 {
   text-align: center;
-  font-size: 5em;
+  font-size: 2em;
   margin-top: 1em;
 }
 
@@ -231,7 +230,7 @@ a:hover {
     background-size: 60%;
     background-position: center;
 	float: left;
-  margin-left: 0em;
+  margin-left: 10.5em;
 }
 .button2 {
 	border: 1px solid #c1282e;
@@ -244,7 +243,7 @@ a:hover {
     background-size: 55%;
     background-position: center;
 	float: left;
-  margin-left: 3em;
+  margin-left: 1.5em;
 }
 .button3 {
 	border: 1px solid #c1282e;
@@ -257,7 +256,7 @@ a:hover {
     background-size: 25%;
     background-position: center;
 	float: left;
-  margin-left: 4em;
+  margin-left: 1.5em;
 }
 .button4 {
 	border: 1px solid #c1282e;
@@ -270,7 +269,7 @@ a:hover {
     background-size: 50%;
     background-position: center;
 	float: left;
-  margin-left: 4em;
+  margin-left: 1.5em;
 }
 .overlay {
 	background: #d23c40;
