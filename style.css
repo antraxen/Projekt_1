@@ -208,6 +208,7 @@ a:hover {
     background-size: 60%;
     background-position: center;
 	float: left;
+  margin-left: 0em;
 }
 .button2 {
 	border: 1px solid #c1282e;
@@ -220,6 +221,7 @@ a:hover {
     background-size: 55%;
     background-position: center;
 	float: left;
+  margin-left: 3em;
 }
 .button3 {
 	border: 1px solid #c1282e;
@@ -232,6 +234,7 @@ a:hover {
     background-size: 25%;
     background-position: center;
 	float: left;
+  margin-left: 4em;
 }
 .button4 {
 	border: 1px solid #c1282e;
@@ -244,6 +247,7 @@ a:hover {
     background-size: 50%;
     background-position: center;
 	float: left;
+  margin-left: 4em;
 }
 .overlay {
 	background: #d23c40;
