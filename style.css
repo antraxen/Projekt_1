@@ -3,13 +3,13 @@
 *{
   margin: 0;
   padding: 0;
-      
+
 }
 
 .crapprinciples {
   margin-left: 10%;
   margin-right: 10%;
-       
+
 }
 
 body {
@@ -107,15 +107,15 @@ a:hover {
   display: inline-block;
   width: 49%;
   vertical-align: top;
-    
+
 }
 
 .theideatekst h3 {
   font-size: 3em;
   padding-bottom: 0.3em;
   padding-top: 0.5em;
-    
- 
+
+
 }
 
 .theideatekst {
@@ -131,7 +131,7 @@ a:hover {
 .theideaimg {
   max-width: -webkit-fill-available;
     padding-top: 7em;
-    
+
 }
 
 .theconcepttekst h3 {
@@ -191,27 +191,108 @@ a:hover {
 }
 
 /* INSERT CSS FOR MEDIA HERE */
-#media {
-  margin-bottom: 25em;
+.button1 {
+	border: 1px solid #c1282e;
+    height: 17em;
+    width: 17em;
+    border-radius: 10em;
+    background-image: url(img/youtube1.svg);
+    background-color: #c1282e;
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: center;
+	float: left;
+}
+.button2 {
+	border: 1px solid #c1282e;
+    height: 17em;
+    width: 17em;
+    border-radius: 10em;
+    background-image: url(img/instagram1.svg);
+    background-color: #c1282e;
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: center;
+	float: left;
+}
+.button3 {
+	border: 1px solid #c1282e;
+    height: 17em;
+    width: 17em;
+    border-radius: 10em;
+    background-image: url(img/facebook1.svg);
+    background-color: #c1282e;
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position: center;
+	float: left;
+}
+.button4 {
+	border: 1px solid #c1282e;
+    height: 17em;
+    width: 17em;
+    border-radius: 10em;
+    background-image: url(img/linkedin1.svg);
+    background-color: #c1282e;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+	float: left;
+}
+.overlay {
+	background: #d23c40;
+    height: 17em;
+    width: 17em;
+    border-radius: 10em;
+    opacity: 0;
+    -webkit-transition: opacity 0.25s ease;
+  -moz-transition: opacity 0.25s ease;
 }
 
-#media h3 {
-  text-align: center;
-  font-size: 5em;
-  margin-top: 1em;
-}
-#media h3 {
-  text-align: center;
-  font-size: 1.5em;
-  padding-bottom: 0.3em;
+.button1:hover .overlay {
+	opacity: 1;
 }
 
-.socialmedia {
-  width: 24%;
-  height: auto;
-  float: left;
-  padding-left: 0.5em;
+.button2:hover .overlay {
+	opacity: 1;
 }
+
+.button3:hover .overlay {
+	opacity: 1;
+}
+
+.button4:hover .overlay {
+	opacity: 1;
+}
+
+.text1 {
+	color: #ffffff;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 2.8em;
+}
+
+.text2 {
+	color: #ffffff;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 3.2em;
+}
+
+.text3 {
+	color: #ffffff;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 3.2em;
+}
+
+.text4 {
+	color: #ffffff;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 3.2em;
+}
+
 
 /*TESTING HOVER*/
 
