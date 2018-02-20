@@ -120,8 +120,9 @@ a:hover {
 
 .theideatekst {
   text-align: left;
+    line-height: 1.6;
     padding-top: 2em;
-    padding-bottom: 4em;
+    padding-bottom: 2em;
     padding-left: 2em;
     padding-right: 2em;
     margin-top: 6em;
@@ -142,8 +143,9 @@ a:hover {
 
 .theconcepttekst {
   text-align: left;
-    padding-top: 2em;
-    padding-bottom: 4em;
+    line-height: 1.6;
+    padding-top: 5em;
+    padding-bottom: 5em;
     padding-left: 2em;
     padding-right: 2em;
     background-color: white
@@ -154,7 +156,7 @@ a:hover {
     padding-top: 4em
 }
 
-.whowearetekst h3 {
+.whowearetekst h2 {
   font-size: 3em;
   padding-bottom: 0.3em;
   padding-top: 1em;
@@ -162,17 +164,18 @@ a:hover {
 
 .whowearetekst {
   text-align: left;
-    padding-top: 2em;
-    padding-bottom: 4em;
+    line-height: 1.6;
+    padding-top: 5em;
+    padding-bottom: 5em;
     padding-left: 2em;
     padding-right: 2em;
-    margin-top: 6em;
+    margin-top: 0em;
     background-color: white
 }
 
 .whoweare {
   max-width: -webkit-fill-available;
-    margin-top: 6em;
+    margin-top: 0em;
 }
 
 /* INSERT CSS FOR KNOWN FROM HERE*/
