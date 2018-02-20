@@ -166,19 +166,21 @@ a:hover {
     padding-bottom: 4em;
     padding-left: 2em;
     padding-right: 2em;
+    margin-top: 6em;
     background-color: white
 }
 
 .whoweare {
   max-width: -webkit-fill-available;
+    margin-top: 6em;
 }
 
 /* INSERT CSS FOR KNOWN FROM HERE*/
-#known h2 {
+#known h3 {
   text-align: center;
-  font-size: 5em;
-  padding-bottom: 0.2em;
-  margin-top: 0.5em;
+  font-size: 2em;
+  padding-bottom: 1em;
+  margin-top: 4em;
 }
 
 .knownfrom {
@@ -193,7 +195,7 @@ a:hover {
   margin-bottom: 25em;
 }
 
-#media h2 {
+#media h3 {
   text-align: center;
   font-size: 5em;
   margin-top: 1em;
