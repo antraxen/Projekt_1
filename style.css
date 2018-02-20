@@ -43,6 +43,7 @@ body {
 }
 #header nav ul {
     margin: 0;
+    padding-right: 1.3em
 }
 
 #header nav ul li {
@@ -165,7 +166,7 @@ a:hover {
   text-align: left;
     line-height: 1.6;
     padding-top: 5em;
-    padding-bottom: 5em;
+    padding-bottom: 5.35em;
     padding-left: 2em;
     padding-right: 2em;
     margin-top: 0em;
