@@ -3,13 +3,11 @@
 *{
   margin: 0;
   padding: 0;
-      
 }
 
 .crapprinciples {
   margin-left: 10%;
   margin-right: 10%;
-       
 }
 
 body {
@@ -53,7 +51,6 @@ body {
     text-transform: uppercase;
     font-family: sans-serif;
     text-decoration: none;
-
 }
 
 a:visited {
@@ -95,8 +92,7 @@ a:hover {
 #about h2 {
   text-align: center;
   font-size: 5em;
-  padding-bottom: 0.2em;
-  margin-top: 0.5em;
+  margin-top: 1em;
 }
 
 #about ul {
@@ -108,15 +104,12 @@ a:hover {
   display: inline-block;
   width: 49%;
   vertical-align: top;
-    
 }
 
 .theideatekst h3 {
   font-size: 3em;
   padding-bottom: 0.3em;
   padding-top: 0.5em;
-    
- 
 }
 
 .theideatekst {
@@ -133,7 +126,6 @@ a:hover {
 .theideaimg {
   max-width: -webkit-fill-available;
     padding-top: 7em;
-    
 }
 
 .theconcepttekst h3 {
