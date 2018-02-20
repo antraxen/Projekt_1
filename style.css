@@ -196,6 +196,13 @@ a:hover {
   margin-top: 4em;
   padding-left: 12.5%;
 }
+#media h3{
+  text-align: center;
+  font-size: 2em;
+  padding-bottom: 1em;
+  padding-right: 7em;
+  margin-top: 4em;
+}
 
 .button1 {
 	border: 1px solid #c1282e;
@@ -208,7 +215,7 @@ a:hover {
     background-size: 60%;
     background-position: center;
 	float: left;
-  margin-left: 0em;
+  margin-left: -0.5em;
 }
 .button2 {
 	border: 1px solid #c1282e;
@@ -221,7 +228,7 @@ a:hover {
     background-size: 55%;
     background-position: center;
 	float: left;
-  margin-left: 3em;
+  margin-left: 1em;
 }
 .button3 {
 	border: 1px solid #c1282e;
@@ -234,7 +241,7 @@ a:hover {
     background-size: 25%;
     background-position: center;
 	float: left;
-  margin-left: 4em;
+  margin-left: 1em;
 }
 .button4 {
 	border: 1px solid #c1282e;
@@ -247,7 +254,7 @@ a:hover {
     background-size: 50%;
     background-position: center;
 	float: left;
-  margin-left: 4em;
+  margin-left: 1em;
 }
 .overlay {
 	background: #d23c40;
