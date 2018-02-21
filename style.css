@@ -324,22 +324,55 @@ a:hover {
 
 /* INSERT CSS FOR FOOTER HERE */
 #footer ul {
-  list-style: none;
-  height: auto;
-  background-color: #131313;
-  padding-bottom: 0;
-  margin-bottom: 0;
-  padding-top: 0.3em;
-  
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 4em;
 }
 
-#footer li{
+.yt {
+  background-image: url(img/yt.svg);
+  background-repeat: no-repeat;
+  height: 3em;
+}
+
+.fb {
+  background-image: url(img/fb.svg);
+  background-repeat: no-repeat;
+  height: 3em;
+}
+
+.ig {
+  background-image: url(img/ig.svg);
+  background-repeat: no-repeat;
+  height: 3em;
+}
+
+.in {
+  background-image: url(img/in.svg);
+  background-repeat: no-repeat;
+  height: 3em;
+}
+
+#footer ul {
+  list-style: none;
+  background-color: #131313;
+  padding-bottom: 0.3em;
+  padding-top: 0.3em;
+}
+
+#footer li {
   display: inline-block;
-  width: 3em;
+  width: 15em;
+  vertical-align: top;
+}
+
+#footer li {
+  display: inline-block;
+  width: 15em;
   vertical-align: top;
 }
 
 #footer p {
-	color: white;
-	text-align: right;
-}
+  color: white;
+  text-align: right;
