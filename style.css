@@ -323,7 +323,7 @@ a:hover {
 
 
 /* INSERT CSS FOR FOOTER HERE */
-#footer ul {
+#footer {
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -348,7 +348,7 @@ a:hover {
   height: 3em;
 }
 
-.in {
+.ln {
   background-image: url(img/in.svg);
   background-repeat: no-repeat;
   height: 3em;
@@ -359,12 +359,6 @@ a:hover {
   background-color: #131313;
   padding-bottom: 0.3em;
   padding-top: 0.3em;
-}
-
-#footer li {
-  display: inline-block;
-  width: 15em;
-  vertical-align: top;
 }
 
 #footer li {
